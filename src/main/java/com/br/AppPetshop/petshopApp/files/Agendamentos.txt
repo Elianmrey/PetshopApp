@@ -1,0 +1,23 @@
+Sandra Lima;567.890.123-45;sandra.lima@email.com;Travessa Urano;Aracaju;SE;56789-012;1998;Papagaio;78.45;Exame Laboratorial;2;Carla Oliveira;Cardiologia;Urgente;9845632
+Tiago Rodrigues;210.987.654-32;tiago.rodrigues@email.com;Alameda Plutão;Cuiabá;MT;89012-345;1376;Cachorro;200.00;Cirurgia;6;Ricardo Silva;Ortopedia;Rotinario;7532149
+Ursula Oliveira;876.543.210-45;ursula.oliveira@email.com;Avenida Terra;Goiania;GO;01234-567;1487;Peixe;95.30;Consulta Veterinaria;3;Ana Santos;Oftalmologia;Urgente;6897421
+Vitor Costa;345.678.901-23;vitor.costa@email.com;Rua Netuno;Palmas;TO;23456-789;1579;Porco;150.75;Exame Radiologico;5;Pedro Almeida;Neurologia;Rotinario;5247896
+Wagner Santos;789.012.345-67;wagner.santos@email.com;Travessa Mercúrio;São Luís;MA;89012-345;1745;Cobra;82.60;Consulta Veterinaria;2;Marta Pereira;Dermatologia;Urgente;3652148
+Xuxa Lima;432.109.876-54;xuxa.lima@email.com;Alameda Júpiter;Boa Vista;RR;01234-567;1865;Gato;175.40;Cirurgia;4;João Oliveira;Cardiologia;Rotinario;8963254
+Yara Pereira;654.321.098-76;yara.pereira@email.com;Avenida Plutão;Palmas;TO;23456-789;1934;Papagaio;68.90;Exame Laboratorial;1;Isabel Costa;Ortopedia;Urgente;4712589
+Zeca Silva;901.234.567-89;zeca.silva@email.com;Travessa Netuno;Recife;PE;34567-890;1612;Tartaruga;130.25;Consulta Veterinaria;5;Carlos Rodrigues;Oftalmologia;Rotinario;6321458
+Ana Carolina Costa;123.456.789-01;ana.carolina.costa@email.com;Alameda Saturno;Curitiba;PR;45678-901;1723;Cachorro;95.80;Exame Radiologico;3;Catarina Silva;Neurologia;Urgente;7896541
+Beto Lima;567.890.123-45;beto.lima@email.com;Rua Mercúrio;Natal;RN;56789-012;1543;Pato;112.30;Consulta Veterinaria;6;Luis Santos;Dermatologia;Rotinario;1478523
+Clara Oliveira;210.987.654-32;clara.oliveira@email.com;Avenida Urano;Brasília;DF;89012-345;1856;Porco;87.15;Exame Laboratorial;2;Sofia Pereira;Cardiologia;Urgente;3698742
+David Costa;876.543.210-45;david.costa@email.com;Travessa Vênus;Vitória;ES;01234-567;1609;Gato;160.00;Cirurgia;4;Tiago Costa;Ortopedia;Rotinario;9852147
+Elisa Rodrigues;345.678.901-23;elisa.rodrigues@email.com;Rua Terra;São Paulo;SP;23456-789;1780;Cobra;75.45;Consulta Veterinaria;3;Beatriz Oliveira;Oftalmologia;Urgente;6321458
+Elisa Rodrigues;345.678.901-23;elisa.rodrigues@email.com;Rua Terra;São Paulo;SP;23456-789;1780;Cobra;75.45;Consulta Veterinaria;3;Beatriz Oliveira;Oftalmologia;Urgente;6321458
+Fabio Santos;789.012.345-67;fabio.santos@email.com;Avenida Marte;Fortaleza;CE;34567-890;1489;Tartaruga;125.92;Consulta Veterinaria;4;Maikel Ruiz;Dermatologia;Rotinario;1278458
+Giselle Lima;432.109.876-54;giselle.lima@email.com;Travessa Júpiter;Manaus;AM;56789-012;1932;Hamster;160.00;Cirurgia;4;Tiago Costa;Ortopedia;Rotinario;9852147
+Hugo Pereira;654.321.098-76;hugo.pereira@email.com;Alameda Plutão;Maceió;AL;67890-123;1678;Coelho;82.60;Consulta Veterinaria;2;Marta Pereira;Dermatologia;Urgente;3652148
+Igor Oliveira;901.234.567-89;igor.oliveira@email.com;Avenida Netuno;Campo Grande;MS;78901-234;1512;Peixe;95.80;Exame Radiologico;3;Catarina Silva;Neurologia;Urgente;7896541
+Ana Carolina Costa;123.456.789-01;ana.carolina.costa@email.com;Alameda Saturno;Curitiba;PR;45678-901;1723;Cachorro;150.75;Exame Radiologico;5;Pedro Almeida;Neurologia;Rotinario;5247896
+Beto Lima;567.890.123-45;beto.lima@email.com;Rua Mercúrio;Natal;RN;56789-012;1543;Pato;87.15;Exame Laboratorial;2;Sofia Pereira;Cardiologia;Urgente;3698742
+Clara Oliveira;210.987.654-32;clara.oliveira@email.com;Avenida Urano;Brasília;DF;89012-345;1856;Porco;112.30;Consulta Veterinaria;6;Luis Santos;Dermatologia;Rotinario;1478523
+David Costa;876.543.210-45;david.costa@email.com;Travessa Vênus;Vitória;ES;01234-567;1609;Gato;68.90;Exame Laboratorial;1;Isabel Costa;Ortopedia;Urgente;4712589
+Ursula Oliveira;876.543.210-45;ursula.oliveira@email.com;Avenida Terra;Goiania;GO;01234-567;1487;Peixe;130.25;Consulta Veterinaria;5;Carlos Rodrigues;Oftalmologia;Rotinario;6321458
